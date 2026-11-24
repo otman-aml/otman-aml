@@ -6,7 +6,7 @@
   <a href="#projets">Projets</a> · <a href="#compétences">Compétences</a> · <a href="#formation">Formation</a> · <a href="#contact">Contact</a>
 </p>
 
-Étudiant en Master 2 Systèmes d'Information et IA, je construis des applications web avec Java et Spring Boot, et j'y ajoute de l'IA quand elle règle un vrai problème : repérer une anomalie dans une image, ou remplir un formulaire à partir d'une simple phrase.
+Étudiant en Master 2 Systèmes d’Information et Intelligence Artificielle, je développe des applications web, prépare et analyse des données, et travaille sur des modèles de vision par ordinateur ainsi que sur l’intégration d’API de LLM. Mon intérêt est de relier ces compétences : exploiter des données fiables, évaluer les modèles et les intégrer dans des applications utiles et utilisables.
 
 Je cherche un PFE ou un premier poste : Software Engineer, développeur Java / Full-Stack, IA / Data (junior).
 
